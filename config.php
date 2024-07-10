@@ -1,10 +1,10 @@
 <?php
-define('DB_HOST', 'fdb1032.awardspace.net');
-define('DB_USERNAME', '4495016_testdb1');
-define('DB_PASSWORD', 'skih_3113');
-define('DB_NAME', '4495016_testdb1');
+define('DB_HOST', 'Your Awardspace Host name');
+define('DB_USERNAME', 'your username');
+define('DB_PASSWORD', 'your password');
+define('DB_NAME', 'your mysql database name');
 
-define('POST_DATA_URL', 'http://samaq.atwebpages.com/sensordata.php');
+define('POST_DATA_URL', 'your domain/sensordata.php');
 
 //PROJECT_API_KEY is the exact duplicate of, PROJECT_API_KEY in NodeMCU sketch file
 //Both values must be same
