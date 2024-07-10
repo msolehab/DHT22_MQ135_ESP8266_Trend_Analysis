@@ -25,10 +25,10 @@ int botRequestDelay = 1000;
 unsigned long lastTimeBotRan;
 
 
-const char* ssid     = "Rumah 1 Malaysia-Maxis Fibre";
-const char* password = "Waz5S8mJ18";
+const char* ssid     = "your SSID";
+const char* password = "your password";
 
-const char* SERVER_NAME = "http://samaq.atwebpages.com/sensordata.php";
+const char* SERVER_NAME = "your domain/sensordata.php";
 String PROJECT_API_KEY = "tempQuality";
 
 unsigned long lastMillis = 0;
